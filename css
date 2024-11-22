@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Cá Nhân</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2em;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Xin Chào, Tôi Là [Trần ĐỨc Đạt]</h1>
+</header>
+
+<div class="container">
+    <h2>Giới Thiệu</h2>
+    <p>Tôi là một [nghề nghiệp hoặc sở thích]. Tôi thích [nêu một vài sở thích hoặc đam mê của bạn].</p>
+
+    <h2>Kinh Nghiệm</h2>
+    <ul>
+        <li>[Kinh nghiệm 1]</li>
+        <li>[Kinh nghiệm 2]</li>
+        <li>[Kinh nghiệm 3]</li>
+    </ul>
+
+    <h2>Liên Hệ</h2>
+    <p>Email: <a href="tranducdat13122006@gmail.com">your_email@example.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></p>
+</div>
+
+<footer>
+    <p>&copy; 2024 [Trần Đức Đạt]. Tất cả quyền được bảo lưu.</p>
+</footer>
+
+</body>
+</html>
